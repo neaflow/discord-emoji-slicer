@@ -1,0 +1,32 @@
+body 
+{
+    background-color: #21242a;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+#boxes {
+    margin: 20px 500px;
+}
+#upload-box {
+    border: 2px solid white;
+    height: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#data-box {
+    margin-top: 20px;
+    border: 2px solid white;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#upload-button {
+    background-color: #3b82f6;
+    color: white;
+    padding: 12px 24px;
+    cursor: pointer;
+}
