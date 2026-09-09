@@ -1,4 +1,9 @@
 # Discord Emoji Slicer
+## Try the tool:
+GitHub Pages:
+https://neaflow.github.io/discord-emoji-slicer/
+My own hosting:
+https://emojislicer.neaflow.com/
 
 ## What is this for?
 
