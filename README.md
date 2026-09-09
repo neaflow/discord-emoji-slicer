@@ -2,6 +2,7 @@
 ## Try the tool:
 GitHub Pages:
 https://neaflow.github.io/discord-emoji-slicer/
+
 My own hosting:
 https://emojislicer.neaflow.com/
 
