@@ -7,6 +7,10 @@
 </head>
 
 <body>
+    <div id="header">
+        <img src="logo.png" alt="logo" id="logo">
+        <h1>discord emoji slicer</h1>
+    </div>
     <div id="boxes">
         <div id="upload-box">
             <label for="image-input" id="upload-button">Upload image</label>
@@ -16,6 +20,13 @@
             <p>upload an image above...</p>
         </div>
         <div id="output-box"></div>
+        <div id="button-box"></div>
+        <div id="paste-box" hidden>
+            <p>Once you've uploaded these emojis to a discord server, assuming you didn't change the default emoji names, paste this in to see the photo in-text: </p>
+            <span id="paste-string"></span>
+            <br>
+            <button id="copy-button">Copy</button>
+        </div>
     </div>
     <script src="js.js"></script>
 
