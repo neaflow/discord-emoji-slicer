@@ -6,7 +6,7 @@ https://neaflow.github.io/discord-emoji-slicer/
 My own hosting:
 https://emojislicer.neaflow.com/
 
-## What is this for?
+## What is this for? 
 
 Discord lets you use custom emojis in the same server that the emojis were uploaded to (or for Nitro members, anywhere) with **no gap** between them, meaning a wide image can effectively be rendered in-text by slicing one full image into multiple square emojis, uploading it into a server, then sending each emoji with no space next to each other.
 
@@ -57,3 +57,8 @@ Open a Discord server where you have permissions to edit/add emojis, and where t
 Copy the string provided by the tool and paste it into a message box in that server, or if you are a Nitro member, anywhere to see the image be added in-text gapless.
 
 ![](ex4.png)
+
+
+
+
+
