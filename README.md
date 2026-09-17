@@ -59,6 +59,7 @@ Copy the string provided by the tool and paste it into a message box in that ser
 ![](ex4.png)
 
 
-
+### todo 
+• it's just completely broken on mobile
 
 
